@@ -1,3 +1,5 @@
+![1](https://user-images.githubusercontent.com/48766198/78956699-c1782080-7aeb-11ea-9238-cee703fecbfa.png)
+
 # ipscat
 get ip address , domain, isp , country.
 
@@ -12,16 +14,16 @@ Will do the job..
 1 method > ./ipscat.py 127.0.0.1-255 
 
   #will scan last range of ip from 1 to 255.
-  
+![2](https://user-images.githubusercontent.com/48766198/78956700-c2a94d80-7aeb-11ea-80c6-c03b07f8b9b7.png)
+
 2 method > ./ipscat.py 127.0.1-4.1.255
 
   #will scan last two range in ip from 1 to 4 and 1 to 255 ..
-  
+![4](https://user-images.githubusercontent.com/48766198/78957958-69dbb400-7aef-11ea-83f2-7c2a3046f40f.png)
   
 
-![1](https://user-images.githubusercontent.com/48766198/78956699-c1782080-7aeb-11ea-9238-cee703fecbfa.png)
 
-![2](https://user-images.githubusercontent.com/48766198/78956700-c2a94d80-7aeb-11ea-80c6-c03b07f8b9b7.png)
+
 
 
 
